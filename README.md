@@ -28,6 +28,26 @@ Me interesa aplicar el análisis de datos en sectores financieros, aseguradores 
 - 🏦 Cumplimiento normativo y análisis de riesgos
 - ⚙️ Optimización de procesos
 
+---
+
+## 📂 Proyectos Destacados
+
+🔹 **Dashboard de análisis de siniestros GMM**  
+Dashboard en Excel para analizar gastos de siniestros y KPIs operativos.  
+
+🔹 **Control de procesos regulatorios**  
+Base de datos y dashboard para seguimiento de obligaciones de cumplimiento.  
+
+🔹 **Proyecto de análisis de datos — TripleTen**  
+Análisis de datos de negocio utilizando Python y SQL.  
+
+---
+
+## 📫 Contacto
+
+📧 Email: fparedes1509@hotmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/fernando-paredes-vega  
+
 <!--
 **FerPaVe/FerPaVe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
